@@ -25,7 +25,7 @@ python3 ./manager.py runserver
 
 ## Screenshots
 
-<img src="https://github.com/mython-dev/Django-Password-Generator/blob/main/screenshot/screenshot.png" width=600 height=500>
+<img src="https://github.com/mython-dev/Django-Password-Generator/blob/main/screenshot/screenshot.png" width=650 height=700>
 
 ## libraries
 
